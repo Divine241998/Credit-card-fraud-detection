@@ -1,2 +1,3 @@
 # Credit-card-fraud-detection
-The dataset used in training this model had an imbalanced target feature which could easily make a model to overfit. In this project, I used Logistic Regression to be the model. And it yeilded a 99.9% Accuracy score and a 0.66 F1 score. If the F1 score had gone below 0.5, i would have oversampled the minority class to tackle the imbalanced target feature.
+The dataset used in training this model had an imbalanced target feature which would easily make a model to overfit. 
+In this project, I used Logistic Regression to be the model. And it yeilded a 99.9% Accuracy score and a 0.66 F1 score. If the F1 score had gone below 0.5, i would have oversampled the minority class to tackle the imbalanced target feature.
